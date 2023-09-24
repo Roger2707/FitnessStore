@@ -1,0 +1,14 @@
+E:\Projects\FitnessStore\Fit_API\Fit_API.Utilities\bin\Debug\net6.0\Fit_API.Utilities.deps.json
+E:\Projects\FitnessStore\Fit_API\Fit_API.Utilities\bin\Debug\net6.0\Fit_API.Utilities.runtimeconfig.json
+E:\Projects\FitnessStore\Fit_API\Fit_API.Utilities\bin\Debug\net6.0\Fit_API.Utilities.dll
+E:\Projects\FitnessStore\Fit_API\Fit_API.Utilities\bin\Debug\net6.0\Fit_API.Utilities.pdb
+E:\Projects\FitnessStore\Fit_API\Fit_API.Utilities\obj\Debug\net6.0\Fit_API.Utilities.csproj.AssemblyReference.cache
+E:\Projects\FitnessStore\Fit_API\Fit_API.Utilities\obj\Debug\net6.0\Fit_API.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\FitnessStore\Fit_API\Fit_API.Utilities\obj\Debug\net6.0\Fit_API.Utilities.AssemblyInfoInputs.cache
+E:\Projects\FitnessStore\Fit_API\Fit_API.Utilities\obj\Debug\net6.0\Fit_API.Utilities.AssemblyInfo.cs
+E:\Projects\FitnessStore\Fit_API\Fit_API.Utilities\obj\Debug\net6.0\Fit_API.Utilities.csproj.CoreCompileInputs.cache
+E:\Projects\FitnessStore\Fit_API\Fit_API.Utilities\obj\Debug\net6.0\Fit_API.Utilities.dll
+E:\Projects\FitnessStore\Fit_API\Fit_API.Utilities\obj\Debug\net6.0\refint\Fit_API.Utilities.dll
+E:\Projects\FitnessStore\Fit_API\Fit_API.Utilities\obj\Debug\net6.0\Fit_API.Utilities.pdb
+E:\Projects\FitnessStore\Fit_API\Fit_API.Utilities\obj\Debug\net6.0\Fit_API.Utilities.genruntimeconfig.cache
+E:\Projects\FitnessStore\Fit_API\Fit_API.Utilities\obj\Debug\net6.0\ref\Fit_API.Utilities.dll

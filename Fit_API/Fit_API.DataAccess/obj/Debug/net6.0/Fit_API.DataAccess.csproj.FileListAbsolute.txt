@@ -1,0 +1,17 @@
+E:\Projects\FitnessStore\Fit_API\Fit_API.DataAccess\bin\Debug\net6.0\Fit_API.DataAccess.deps.json
+E:\Projects\FitnessStore\Fit_API\Fit_API.DataAccess\bin\Debug\net6.0\Fit_API.DataAccess.runtimeconfig.json
+E:\Projects\FitnessStore\Fit_API\Fit_API.DataAccess\bin\Debug\net6.0\Fit_API.DataAccess.dll
+E:\Projects\FitnessStore\Fit_API\Fit_API.DataAccess\bin\Debug\net6.0\Fit_API.DataAccess.pdb
+E:\Projects\FitnessStore\Fit_API\Fit_API.DataAccess\bin\Debug\net6.0\Fit_API.Models.dll
+E:\Projects\FitnessStore\Fit_API\Fit_API.DataAccess\bin\Debug\net6.0\Fit_API.Models.pdb
+E:\Projects\FitnessStore\Fit_API\Fit_API.DataAccess\obj\Debug\net6.0\Fit_API.DataAccess.csproj.AssemblyReference.cache
+E:\Projects\FitnessStore\Fit_API\Fit_API.DataAccess\obj\Debug\net6.0\Fit_API.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\FitnessStore\Fit_API\Fit_API.DataAccess\obj\Debug\net6.0\Fit_API.DataAccess.AssemblyInfoInputs.cache
+E:\Projects\FitnessStore\Fit_API\Fit_API.DataAccess\obj\Debug\net6.0\Fit_API.DataAccess.AssemblyInfo.cs
+E:\Projects\FitnessStore\Fit_API\Fit_API.DataAccess\obj\Debug\net6.0\Fit_API.DataAccess.csproj.CoreCompileInputs.cache
+E:\Projects\FitnessStore\Fit_API\Fit_API.DataAccess\obj\Debug\net6.0\Fit_API.DataAccess.csproj.CopyComplete
+E:\Projects\FitnessStore\Fit_API\Fit_API.DataAccess\obj\Debug\net6.0\Fit_API.DataAccess.dll
+E:\Projects\FitnessStore\Fit_API\Fit_API.DataAccess\obj\Debug\net6.0\refint\Fit_API.DataAccess.dll
+E:\Projects\FitnessStore\Fit_API\Fit_API.DataAccess\obj\Debug\net6.0\Fit_API.DataAccess.pdb
+E:\Projects\FitnessStore\Fit_API\Fit_API.DataAccess\obj\Debug\net6.0\Fit_API.DataAccess.genruntimeconfig.cache
+E:\Projects\FitnessStore\Fit_API\Fit_API.DataAccess\obj\Debug\net6.0\ref\Fit_API.DataAccess.dll
